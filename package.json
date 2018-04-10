@@ -1,0 +1,26 @@
+{
+  "name": "real-time-web",
+  "version": "1.0.0",
+  "description": "Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japgroevemaker/real-time-web.git"
+  },
+  "author": "Joep Gravemaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japgroevemaker/real-time-web/issues"
+  },
+  "homepage": "https://github.com/japgroevemaker/real-time-web#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
