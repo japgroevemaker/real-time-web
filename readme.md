@@ -12,6 +12,13 @@ During this course, students will:
 
 [Assignments](https://drive.google.com/open?id=1OUspHz0enLpoVjbyHMHpAQCjSEmkn8rfHbkoSuwjw4M) (in Dutch)
 
+## chat
+We needed to create an chat with some sort of an extra function.
+I made an chat with an gues number game.
+The user types in ```/number``` and the message:Set a random number between 1 and 10. Take a /guess ! is displayed.
+When the user types in ```/guess``` with an number between 1 and 10 the server either responds with: you guessed the number or with: Wrong number.
+
+
 ## Week 2
 [Slides](https://drive.google.com/open?id=1-tI7rFjHchbph6FEqpNvDi7XCh3Uy-3bohi_jBdZhcQ)
 
